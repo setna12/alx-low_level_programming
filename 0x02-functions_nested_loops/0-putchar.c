@@ -1,9 +1,9 @@
-#include  <main.h>
+#include "main.h"
 
 /**
- *  main - prints putchar
+ *   main - check the code
  *
- *  Return : always 0
+ *   Return: Always 0
  */
 
 int main(void)
